@@ -1,5 +1,3 @@
-Here's the English version of the README.md for the finetune_tutorial repository:
-
 # Finetune Tutorial
 
 This repository contains tutorial materials based on the DeepLearning.AI course 'Finetuning Large Language Models'. This tutorial aims to help learners grasp the fundamental concepts and practical skills of fine-tuning large language models (LLM).
@@ -36,7 +34,7 @@ The `code` folder contains Jupyter notebooks that guide you through the fine-tun
 5. `05_Training_lab_student.ipynb`: Walkthrough of the training process
 6. `06_Evaluation_lab_student.ipynb`: Methods for evaluating fine-tuned models
 
-Additionally, there are two JSON files: 
+Additionally, there are two JSON files:
 
 * `alpaca_processed.jsonl`: Processed dataset for fine-tuning
 * `lamini_docs_processed.jsonl`: Another processed dataset for fine-tuning
@@ -60,4 +58,4 @@ This tutorial is based on content from DeepLearning.AI's course. Thanks to Sharo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
